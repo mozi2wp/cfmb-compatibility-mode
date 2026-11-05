@@ -1,0 +1,8 @@
+/.git
+/phpcs.xml.dist
+/.distignore
+/.gitignore
+/README.md
+/.github
+/.wordpress-org
+/brand-assets
