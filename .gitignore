@@ -1,2 +1,5 @@
 *.zip
 .DS_Store
+Thumbs.db
+/vendor/
+GIT-PUSH-COMMANDS.md

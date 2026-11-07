@@ -2,6 +2,7 @@
 /phpcs.xml.dist
 /.distignore
 /.gitignore
+/.gitattributes
 /README.md
 /.github
 /.wordpress-org

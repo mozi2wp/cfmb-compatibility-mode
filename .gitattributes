@@ -1,0 +1,13 @@
+# LF everywhere, so PHPCS and the release zip see the same files on every OS.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.svg text eol=lf
+*.zip binary
+
+# Left out of "git archive" downloads.
+/.gitattributes export-ignore
+/.gitignore export-ignore
+/.distignore export-ignore
+/phpcs.xml.dist export-ignore
+/brand-assets export-ignore
